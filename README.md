@@ -4,6 +4,11 @@ Bash settings what I like.
 
 Please use it if you like it.
 
+Aliases & Functions
+-------------------
+**v** - vagrant
+**phpunit** - phpunit --color
+
 ![enter image description here][1]
 
 
